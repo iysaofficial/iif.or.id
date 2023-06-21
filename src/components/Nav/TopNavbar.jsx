@@ -100,13 +100,13 @@ export default function TopNavbar() {
               </a>
             </li>
             <li className="semiBold font15 pointer flexCenter">
-              <a
+              {/* <a
                 href="https://bit.ly/Pendaftaran-IIF-2023"
                 className="radius8 lightBg"
                 style={{ padding: "10px 15px" }}
               >
                 Registrasi
-              </a>
+              </a> */}
             </li>
           </UlWrapperRight>
         </NavInner>
